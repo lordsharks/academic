@@ -59,7 +59,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "College of Forestry, Oregon State University", url = "forestry.oregonstate.edu" } ]
+  organizations = [ { name = "College of Forestry, Oregon State University", url = "http://www.forestry.oregonstate.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "ao_ppg.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -245,7 +245,6 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "//github.com/aosmith16"
 
-
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -260,19 +259,19 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Workshops"
+  url = "#workshops"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+  name = "Publications"
+  url = "#publications"
+  weight = 4
 
 [[menu.main]]
-  name = "Teaching and Workshops"
+  name = "Teaching"
   url = "#teaching"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Contact"
@@ -280,10 +279,10 @@ enableGitInfo = false
   weight = 5
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.

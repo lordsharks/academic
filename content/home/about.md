@@ -35,4 +35,4 @@ weight = 5
 
 # About Me
 
-Ariel Muldoon is the research consulting statistician for the College of Forestry at Oregon State University.  She consults with faculty and students in the department on a huge variety of statistical topics, from study design to analysis and through to writing up results and making final plots.   
+I am currently the research consulting statistician for the College of Forestry at Oregon State University.  I consults with faculty and students in the department on a huge variety of statistical topics, from study design to analysis and through to writing up results and making final plots.  I blog about statistics and R topics at [Very Statisticious](https://aosmith.rbind.io/).
