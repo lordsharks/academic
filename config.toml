@@ -62,13 +62,15 @@ enableGitInfo = false
   organizations = [ { name = "College of Forestry, Oregon State University", url = "forestry.oregonstate.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "ao_ppg2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = ""
+  avatar = "ao_ppg.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "ariel.muldoon@gmail.com"
   address = ""
   office_hours = ""
   phone = ""
   skype = ""
   telegram = ""
+  twitter = "aosmith16"
+  github = "aosmith16"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -259,7 +261,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
@@ -268,19 +270,14 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Teaching"
+  name = "Teaching and Workshops"
   url = "#teaching"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
