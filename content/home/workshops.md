@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Recent Workshops"
-subtitle = ""
+subtitle = "_Here are written versions of R workshops I give on a semi-annual basis for College of Forestry faculty and students_"
 
 # Order that this section will appear in.
 weight = 20
@@ -17,6 +17,5 @@ count = 10
 #   0 = Simple
 #   1 = Detailed
 list_format = 0
-
 +++
 

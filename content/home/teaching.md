@@ -15,14 +15,7 @@ weight = 30
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I am a co-instructor for the following course in the department of [Forest Ecosystems and Society](http://fes.forestry.oregonstate.edu/). This graduate-level class is taught every winter term and has attracted graduate students from 9 departments and at least 12 degree programs.  
 
-I am a teaching instructor for the following courses at University X:
++ FES524: [Natural Resources Data Analysis](http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=FES&coursenumber=524)
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
