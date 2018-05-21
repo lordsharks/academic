@@ -261,7 +261,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Workshops"
   url = "#workshops"
-  weight = 6
+  weight = 2
 
 [[menu.main]]
   name = "Publications"
