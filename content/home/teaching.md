@@ -15,7 +15,7 @@ weight = 30
 
 +++
 
-I am a co-instructor for the following course in the department of [Forest Ecosystems and Society](http://fes.forestry.oregonstate.edu/). This graduate-level class is taught every winter term and has attracted graduate students from 9 departments and at least 12 degree programs.  
+I am a co-instructor for the following course in the department of [Forest Ecosystems and Society](http://fes.forestry.oregonstate.edu/). This graduate-level course is taught every winter term and has attracted graduate students from 9 departments and $\geq$12 graduate degree programs.  
 
 + FES524: [Natural Resources Data Analysis](http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=FES&coursenumber=524)
 
