@@ -1,5 +1,5 @@
 +++
-date = 2018-05-02T00:00:00  # Schedule page publish date.
+date = 2018-04-18T00:00:00  # Schedule page publish date.
 
 title = "Data Manipulation in R"
 time_start = ""
