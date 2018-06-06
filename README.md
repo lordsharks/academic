@@ -1,2 +1,3 @@
 # academic
-Example website for work sessions
+
+Website for Ariel Muldoon, including publications and workshops
