@@ -27,8 +27,8 @@ weight = 5
   year = 2007
 
 [[education.courses]]
-  course = "BSc in Environmental Studies"
-  institution = "Clark Honors College, University of Oregon"
+  course = "BA in Environmental Studies (Minors in Spanish, Geology)"
+  institution = "Robert D. Clark Honors College, University of Oregon"
   year = 1999
  
 +++
