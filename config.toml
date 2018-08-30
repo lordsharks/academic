@@ -259,7 +259,7 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Workshops"
+  name = "Workshops and talks"
   url = "#workshops"
   weight = 2
 
