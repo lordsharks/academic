@@ -22,7 +22,7 @@ selected = false
 url_pdf = "pdf/data_manipulation_workshop_2018.pdf"
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "files/data_manipulation_in_R_2018.r"
 
 # Does the content use math formatting?
 math = true

@@ -22,7 +22,7 @@ selected = false
 url_pdf = "pdf/R_basics_workshop_2017.pdf"
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "files/rbasics/R_basics_workshop_2017.r"
 
 # Does the content use math formatting?
 math = true
@@ -38,4 +38,6 @@ caption = ""
 
 +++
 
-This workshop introduces R to students by going through the steps to perform a simple analysis on data stored in three different datasets.  Along the way students learn how to read in three different kinds of datasets (TXT, CSV, XLSX), merge them, and explore the data with **ggplot2** plots.  Students are introduced to factors and working with missing values in R.  Special attention is given to using R help pages.  All work in R is done through RStudio.
+This workshop introduces R to students by going through the steps to perform a simple analysis on data stored in three different datasets.  Along the way students learn how to read in three different kinds of datasets (TXT, CSV, XLSX), merge them, and explore the data with **ggplot2** plots.  Students are introduced to factors and working with missing values in R.  Special attention is given to using R help pages.  All work in R is done through RStudio.  
+
+If you want to run the code you can download the three datasets used in the workshop: [the TXT file](/files/rbasics/temp.txt), [the CSV file](/files/rbasics/spring resp.csv), and [the XLSX file](/files/rbasics/fall resp.xlsx).

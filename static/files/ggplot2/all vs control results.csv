@@ -1,0 +1,6 @@
+"Diffmeans","Lower.CI","Upper.CI","plantdate","stocktype"
+-0.27,-0.63,0.09,"Jan2","cont"
+0.11,-0.25,0.47,"Jan28","cont"
+-0.15,-0.51,0.21,"Jan28","bare"
+-1.27,-1.63,-0.91,"Feb25","cont"
+-1.18,-1.54,-0.82,"Feb25","bare"

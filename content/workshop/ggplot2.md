@@ -22,7 +22,7 @@ selected = false
 url_pdf = "pdf/graphics_with_ggplot2_workshop_2018.pdf"
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "files/ggplot2/graphics_with_ggplot2_2018.r"
 
 # Does the content use math formatting?
 math = true
@@ -38,4 +38,6 @@ caption = ""
 
 +++
 
-A basic introduction to working with **ggplot2** package in R for making graphics.  The first half of the workshop focuses on learning the syntax and terminology used in **ggplot2** while making simple, exploratory plots.  In the second half of the workshop we talk about controlling the overall look of a graphic for a "publication-ready" plot.
+A basic introduction to working with **ggplot2** package in R for making graphics.  The first half of the workshop focuses on learning the syntax and terminology used in **ggplot2** while making simple, exploratory plots.  In the second half of the workshop we talk about controlling the overall look of a graphic for a "publication-ready" plot.  
+
+You can access the CSV files used in the second half of the workshop [here](/files/ggplot2/egg length and width by species.csv) and [here](/files/ggplot2/all vs control results.csv).

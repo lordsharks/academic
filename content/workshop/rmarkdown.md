@@ -38,4 +38,4 @@ caption = ""
 
 +++
 
-An introduction to R Markdown via RStudio, with a focus on introducing literate programming to newer R users via R Notebooks.
+An introduction to R Markdown via RStudio, with a focus on introducing literate programming to newer R users via R Notebooks.  The three main topics covered are the Markdown syntax, the YAML header, and writing code chunks.  Both interactive and static R Markdown documents and outputs are discussed.
