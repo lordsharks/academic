@@ -228,7 +228,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:ariel.muldoon@oregonstate.edu"
+    link = "mailto:ariel.muldoon@gmail.com"
 
   [[params.social]]
     icon = "twitter"
