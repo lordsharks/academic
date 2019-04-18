@@ -1,5 +1,5 @@
 +++
-date = 2018-04-18T00:00:00  # Schedule page publish date.
+date = 2019-04-25T00:00:00  # Schedule page publish date.
 
 title = "Data Manipulation in R"
 time_start = ""
@@ -19,10 +19,10 @@ selected = false
 # projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "pdf/data_manipulation_workshop_2018.pdf"
+url_pdf = "https://github.com/aosmith16/data-manipulation-workshop/blob/master/data_manipulation_workshop_handout.pdf"
 url_slides = ""
 url_video = ""
-url_code = "files/data_manipulation_in_R_2018.r"
+url_code = "https://github.com/aosmith16/data-manipulation-workshop/blob/master/data_manipulation_workshop_script.r"
 
 # Does the content use math formatting?
 math = true
@@ -38,4 +38,19 @@ caption = ""
 
 +++
 
-An introduction to data manipulation in R via **dplyr** and **tidyr**.  The workshop is aimed at graduate students who have been introduced to R but who haven't had formal training in how to work with data in R.  In this workshop I demonstrate how to make data summaries by group, filter out rows, select specific columns, add new variables, change the format of datasets (i.e., *reshape* datasets), and join datasets together. Along the way students learn how to use the pipe operator to chain several data manipulation steps together.  The workshop ends with time for students to practice their new skills.
+An introduction to data manipulation in R via **dplyr** and **tidyr**.
+
+This two-hour workshop is aimed at graduate students who have been introduced to R in statistics classes but haven’t had any training on how to work with data in R. 
+
+The workshop covers how to:
+
+- Make data summaries by group  
+- Filter out rows  
+- Select specific columns  
+- Add new variables  
+- Change the format of datasets (i.e., *reshape* datasets)  
+- Join datasets together  
+
+Along the way students learn how to use the pipe operator to chain several data manipulation steps together. Students have time to practice data manipulation and reshaping using the `babynames` dataset from package **babynames**.
+
+I provide an R script that we'll run code from during the workshop as well as  a PDF document.  The PDF is a written version of the workshop, including code and output, to be used as a reference.
