@@ -35,4 +35,4 @@ weight = 5
 
 # About Me
 
-I am currently the research consulting statistician in the statistical consulting program for the College of Forestry at Oregon State University.  I advise faculty and students in the college on, e.g., appropriate study designs to answer research questions, statistical approaches to their analyses, how to convey statistical results, and how to use software to perform analyses. I blog about statistics and R topics at [Very Statisticious](https://aosmith.rbind.io/).
+I am currently the research consulting statistician in the statistical consulting program for the College of Forestry at Oregon State University.  I advise faculty and students in the college on, e.g., appropriate study designs to answer research questions, statistical approaches to their analyses, how to convey statistical results, and how to use software to perform analyses. I write about statistics and R topics at [Very Statisticious](https://aosmith.rbind.io/).
