@@ -3,14 +3,14 @@
 #
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://ariel.rbind.io/"
+baseurl = "https://adoring-pare-1c7d8d.netlify.com/"
 
 # Title of your site
 title = "Ariel Muldoon"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -54,23 +54,23 @@ enableGitInfo = false
   font = "classic"
 
   # Your details.
-  name = "Ariel Muldoon"
-  role = "Research Consulting Statistician"
+  name = "Jonathan Kefas"
+  role = "Physiotherapist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "College of Forestry, Oregon State University", url = "http://www.forestry.oregonstate.edu/" } ]
+  organizations = [ { name = "Department of Physiotherapy, University of Maiduguri Teaching Hospitall", url = "http://www.unimaid.edu.ng/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "ao_ppg.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "ariel.muldoon@gmail.com"
+  email = "jonathankefas@gmail.com"
   address = ""
   office_hours = ""
   phone = ""
   skype = ""
   telegram = ""
-  twitter = "aosmith16"
-  github = "aosmith16"
+  twitter = "lordshaqs"
+  github = "lordshaqs"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -106,7 +106,7 @@ enableGitInfo = false
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2, 2006"
+  date_format = "October 1, 2019"
   #   Examples: "3:04 pm" or "15:04"
   time_format = "15:04"
 
@@ -228,12 +228,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:ariel.muldoon@gmail.com"
+    link = "mailto:jonathankefasn@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/aosmith16"
+    link = "//twitter.com/lordshaqs"
 
   [[params.social]]
     icon = "stack-overflow"
@@ -243,7 +243,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/aosmith16"
+    link = "//github.com/lordsharks"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
